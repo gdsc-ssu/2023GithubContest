@@ -32,11 +32,12 @@ def listsReposForUser(username, token=''):
 
 
 # https://docs.github.com/en/rest/reference/repos#list-commits
-def listCommits(fullname, token=''):
+def listCommits(fullname, commitAuthor, token=''):
     query_url = f"https://api.github.com/repos/{fullname}/commits"
     params = {
         "since": "2019-10-02T00:00:00+0900",
-        "until": "2021-11-07T00:00:00+0900"
+        "until": "2021-11-07T00:00:00+0900",
+        "author": {commitAuthor}
     }
     headers = {
         'accept': 'application/vnd.github.v3+json',

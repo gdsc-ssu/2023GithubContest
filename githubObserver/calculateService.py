@@ -1,6 +1,6 @@
 from .classes import Github
 from .githubApi import listsReposForUser, listCommits
-
+import pprint
 
 async def calculate(members, token=''):
     githubs = []
@@ -9,7 +9,7 @@ async def calculate(members, token=''):
 
     for m in members:
         repos = listsReposForUser(m.username, token)
-        repoCommit = [len(listCommits(r['full_name'], token)) for r in repos]
+        repoCommit = [len(listCommits(r['full_name'], m.username, token)) for r in repos]
 
         githubs.append(Github(m.name, m.username, sum(repoCommit), 0))  # TODO stars 계산도 해야함.
 
