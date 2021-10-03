@@ -1,19 +1,22 @@
+import dataclasses
+
+
+@dataclasses.dataclass(unsafe_hash=True)
 class Member:
-    def __init__(self, name, username, github_url):
-        self.name = name
-        self.username = username
-        self.github_url = github_url
-
-    def __repr__(self):
-        return f"[Member] name: {self.name}, username: {self.username}, github_url: {self.github_url}"
+    name: str
+    username: str
+    github_url: str
 
 
+@dataclasses.dataclass(unsafe_hash=True)
 class Github:
-    def __init__(self, name, username, commit_count, star_count):
-        self.name = name
-        self.username = username
-        self.commit_count = commit_count
-        self.star_count = star_count
+    name: str
+    username: str
+    avatar_url: str
+    commit_count: int
+    star_count: int
 
-    def __repr__(self):
-        return f"[Github] name: {self.name}, username: {self.username}, commit_count: {self.commit_count}, star_count: {self.star_count}"
+
+@dataclasses.dataclass(unsafe_hash=True)
+class Profile:
+    avatar_url: str

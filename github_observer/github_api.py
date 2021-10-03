@@ -1,4 +1,5 @@
 import requests
+from classes import Profile
 
 """
 oauth를 이용해 token을 얻는 방법. 사전에 GET https://github.com/login/oauth/authorize 으로 callback code를 얻어야함.
@@ -15,6 +16,17 @@ def getToken():
     r = requests.post(query_url, data=datas, headers=headers)
     return r.json()
 """
+
+
+def fetch_user(username: str, token: str) -> Profile:
+    query_url = f"https://api.github.com/users/{username}"
+    headers = {
+        'accept': 'application/vnd.github.v3+json',
+        'Authorization': f'token {token}'
+    }
+    r = requests.get(query_url, headers=headers)
+    d = r.json()
+    return Profile(d['avatar_url'])
 
 
 def fetch_repos(username: str, token=''):
