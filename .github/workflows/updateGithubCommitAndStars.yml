@@ -2,8 +2,6 @@
 name: "Parsing Github commitcounts & stars for 2021 GDSC Soongsil Github Contest"
 
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
   schedule:
