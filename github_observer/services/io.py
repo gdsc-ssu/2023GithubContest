@@ -1,20 +1,20 @@
 import csv
 import json
+from typing import List
 from classes import Member
 
 
-def read_members():
+def read_members() -> List[Member]:
     members = []
     with open("./resources/member_list.csv", newline="", encoding='utf-8') as f:
         lines = csv.reader(f, delimiter=",")
         for line in lines:
             try:
                 members.append(
-                    Member(line[0], line[1], "https://github.com/" + line[1]))
+                    Member(name=line[0], username=line[1], github_url="https://github.com/" + line[1]))
             except Exception as e:
                 print(f"error in line : {line}")
 
-    print(members)
     return members
 
 
