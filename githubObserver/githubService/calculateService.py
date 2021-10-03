@@ -1,5 +1,5 @@
-from .classes import Github
-from .githubApi import listsReposForUser, listCommits
+from classes import Github
+from githubApi import listsReposForUser, listCommits
 import pprint
 
 async def calculate(members, token=''):

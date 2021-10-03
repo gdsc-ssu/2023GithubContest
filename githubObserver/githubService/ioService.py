@@ -1,6 +1,6 @@
 import csv
 import json
-from .classes import Member
+from classes import Member
 
 
 def readMemberList():

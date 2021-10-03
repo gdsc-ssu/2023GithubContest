@@ -1,10 +1,9 @@
 import asyncio
 import sys
-from githubObserver import ioService, calculateService
+from githubService import calculateService, ioService
 
 
 async def main(token):
-    print("here")
     members = ioService.readMemberList()
     githubs = await calculateService.calculate(members, token)
     ioService.writeGithubList(githubs)
