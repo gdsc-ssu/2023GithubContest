@@ -26,11 +26,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-        working-directory: "githubObserver"
+        working-directory: "github_observer"
 
       - name: Run
         run: python main.py ${{ secrets.A_GITHUB_TOKEN }}
-        working-directory: "githubObserver"
+        working-directory: "github_observer"
 
       - name: Commit updated newestGithubs.json
         run: |
