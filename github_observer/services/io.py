@@ -64,7 +64,7 @@ def write_markdown(githubs: List[Github]):
       </td>
       <td align="center">
         <a href="{github_url}" >
-          <img width="56" alt="image" src="{avatar_url}">
+          <img width="40" alt="image" src="{avatar_url}">
         </a>
       </td>
       <td align="center">

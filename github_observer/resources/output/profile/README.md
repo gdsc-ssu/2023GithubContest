@@ -25,7 +25,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/gomjellie" >
-          <img width="56" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
         </a>
       </td>
       <td align="center">
@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        52
+        56
       </td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/suyeon96" >
-          <img width="56" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
         </a>
       </td>
       <td align="center">
@@ -52,7 +52,97 @@
       </a>
       </td>
       <td align="center">
-        17
+        18
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
+      </td>
+      <td align="center">
+        <a href="https://github.com/20170781" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/20170781" >
+          20170781
+      </a>
+      </td>
+      <td align="center">
+        12
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4등
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/yoo-jimin127" >
+          yoo-jimin127
+      </a>
+      </td>
+      <td align="center">
+        6
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        5등
+      </td>
+      <td align="center">
+        <a href="https://github.com/ywoo121" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/ywoo121" >
+          ywoo121
+      </a>
+      </td>
+      <td align="center">
+        4
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6등
+      </td>
+      <td align="center">
+        <a href="https://github.com/yeonnex" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/82166132?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/yeonnex" >
+          yeonnex
+      </a>
+      </td>
+      <td align="center">
+        1
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        7등
+      </td>
+      <td align="center">
+        <a href="https://github.com/ika9810" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/ika9810" >
+          ika9810
+      </a>
+      </td>
+      <td align="center">
+        0
       </td>
     </tr>
   </tbody>
