@@ -23,7 +23,7 @@ class Profile:
 
 
 @dataclasses.dataclass
-class Owner:
+class User:
     avatar_url: str
     login: str
     type: str
@@ -36,6 +36,39 @@ class Repo:
     full_name: str  # 'gomjellie/jelly-translator'
     description: str
     language: str
-    owner: Owner
+    owner: User
     private: bool
     stargazers_count: int
+
+
+@dataclasses.dataclass(unsafe_hash=True)
+class Author:
+    name: str
+    email: str
+    date: str
+
+
+@dataclasses.dataclass(unsafe_hash=True)
+class Commiter:
+    name: str
+    email: str
+    date: str
+
+
+@dataclasses.dataclass(unsafe_hash=True)
+class Commit:
+    url: str
+    author: Author
+    committer: Commiter
+    message: str
+    tree: any
+    comment_count: int
+    verification: any
+
+
+@dataclasses.dataclass(unsafe_hash=True)
+class CommitWrapper:
+    author: User
+    comments_url: str
+    commit: Commit
+    commiter: User
