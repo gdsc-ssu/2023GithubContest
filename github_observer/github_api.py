@@ -35,8 +35,7 @@ def fetch_repos(username: str, token: str) -> List[Repo]:
     """
     query_url = f"https://api.github.com/users/{username}/repos"
     params = {
-        # "state": "open",
-        "sort": "updated",
+        "sort": "pushed",
         "type": "all",
         "per_page": 100,
     }
