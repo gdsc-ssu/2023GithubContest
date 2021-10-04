@@ -1,9 +1,8 @@
 import requests
 from datetime import datetime
 from typing import List
-from classes import Profile, Repo, User, Commiter, Commit, CommitWrapper
+from classes import Profile, Repo, User, Commit
 from bs4 import BeautifulSoup
-
 
 """
 oauth를 이용해 token을 얻는 방법. 사전에 GET https://github.com/login/oauth/authorize 으로 callback code를 얻어야함.
