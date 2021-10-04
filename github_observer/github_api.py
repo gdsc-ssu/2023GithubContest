@@ -98,7 +98,7 @@ def fetch_commits(full_name: str, author: str, token: str) -> List[Commit]:
 
 def fetch_grass_count(login: str, since: str = '2021-10-02', until: str = '2021-11-07') -> int:
     r = requests.get('https://github.com/{}'.format(login))
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, 'html.parser')
     days = soup.find_all(class_='ContributionCalendar-day')
     since_date = datetime.strptime(since, '%Y-%m-%d')
     until_date = datetime.strptime(until, '%Y-%m-%d')
@@ -112,7 +112,7 @@ def fetch_grass_count(login: str, since: str = '2021-10-02', until: str = '2021-
             continue
         contribution_date = datetime.strptime(data_date, '%Y-%m-%d')
 
-        if since_date < contribution_date < until_date:
+        if since_date <= contribution_date <= until_date:
             ret += int(data_count)
 
     return ret
