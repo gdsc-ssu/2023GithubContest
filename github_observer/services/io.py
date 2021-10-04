@@ -84,5 +84,5 @@ def write_markdown(githubs: List[Github]):
     ]
     markdown = template.format(rows='\n'.join(rows))
 
-    with open("./profile/README.md", "w", encoding="utf-8") as f:
+    with open("./resources/output/profile/README.md", "w", encoding="utf-8") as f:
         f.write(markdown)
