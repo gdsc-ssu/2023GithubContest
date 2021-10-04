@@ -48,7 +48,7 @@ jobs:
         id: push_directory
         uses: cpina/github-action-push-to-another-repository@main
         env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          API_TOKEN_GITHUB: ${{ secrets.A_GITHUB_TOKEN }}
         with:
           source-directory: 'github_observer/resources/output'
           destination-github-username: 'gdsc-ssu'
