@@ -42,16 +42,16 @@ jobs:
           github_token: ${{ secrets.A_GITHUB_TOKEN }}
           branch: main
   
-#     #TODO shell 하나 짜서 md 만들고 아래 step 돌려서 profile(banner) table update
-#       - name: Push Profile Repository
-#         id: push_directory
-#         uses: cpina/github-action-push-to-another-repository@main
-#         env:
-#           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-#         with:
-#           source-directory: 'resources/output'
-#           destination-github-username: 'gdsc-ssu'
-#           destination-repository-name: '.github'
-#           user-email: carles3@pina.cat
-#           commit-message: "[GithubActionBot] Update newest github commit/stars"
-#           target-branch: main
+      #TODO shell 하나 짜서 md 만들고 아래 step 돌려서 profile(banner) table update
+      - name: Push Profile Repository
+        id: push_directory
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'resources/output'
+          destination-github-username: 'gdsc-ssu'
+          destination-repository-name: '.github'
+          user-email: githubContest@noreply.gdscsoongsil.com
+          commit-message: "[GithubActionBot] Update Github Contest Ranking Table"
+          target-branch: main
