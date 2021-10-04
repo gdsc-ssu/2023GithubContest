@@ -2,7 +2,7 @@ name: 'Parsing Github commitcounts & stars for 2021 GDSC Soongsil Github Contest
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour.
+    - cron: '0 3,15 * * *' # ON EVERY 00:00, 12:00 KST
 
 jobs:
   codeTest:
