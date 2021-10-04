@@ -54,6 +54,8 @@ def write_markdown(githubs: List[Github], repos: List[Repo]):
   </tbody>
 </table>
 
+<h2 align="center">인기 레포지토리 (2021.10.2~)</h2>
+
 <table align="center">
   <thead>
     <tr>
