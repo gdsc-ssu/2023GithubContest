@@ -1,4 +1,3 @@
-
 <h2 align="center">천하제일 깃허브 자랑대회 리더보드</h2>
 
 <table align="center">
@@ -147,4 +146,3 @@
     </tr>
   </tbody>
 </table>
-    
