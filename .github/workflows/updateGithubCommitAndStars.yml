@@ -31,6 +31,7 @@ jobs:
 
       - name: Commit updated newestGithubs.json
         run: |
+          git pull
           git config --local user.email "githubParser.githubaction.bot@noreply.gdscsoongsil.com"
           git config --local user.name "githubParser"
           git commit -m "[GithubActionBot] Update newest github commit/stars" -a || echo "Nothing to update"
