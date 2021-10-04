@@ -20,3 +20,22 @@ class Github:
 @dataclasses.dataclass(unsafe_hash=True)
 class Profile:
     avatar_url: str
+
+
+@dataclasses.dataclass
+class Owner:
+    avatar_url: str
+    login: str
+    type: str
+
+
+@dataclasses.dataclass(unsafe_hash=True)
+class Repo:
+    created_at: str  # '2016-12-28T03:58:29Z',
+    name: str  # 'jelly-translator',
+    full_name: str  # 'gomjellie/jelly-translator'
+    description: str
+    language: str
+    owner: Owner
+    private: bool
+    stargazers_count: int

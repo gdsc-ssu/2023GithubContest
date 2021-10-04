@@ -12,8 +12,9 @@ async def calculate(members: List[Member], token='') -> List[Github]:
         profile = fetch_user(m.username, token)
         print(profile.avatar_url)
         repos = fetch_repos(m.username, token)
-        repoCommit = [len(fetch_commits(r['full_name'], m.username, token))
-                      for r in repos]
+        pprint(repos)
+        repoCommit = [len(fetch_commits(repo.full_name, m.username, token))
+                      for repo in repos]
 
         # # TODO stars 계산도 해야함.
         githubs.append(
