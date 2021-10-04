@@ -262,6 +262,96 @@
         0
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        8등
+      </td>
+      <td align="center">
+        <a href="https://github.com/enif-lee" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/enif-lee" >
+          enif-lee
+      </a>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        9등
+      </td>
+      <td align="center">
+        <a href="https://github.com/aube-dev" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/28603140?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/aube-dev" >
+          aube-dev
+      </a>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        10등
+      </td>
+      <td align="center">
+        <a href="https://github.com/Bucky5683" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/87425043?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/Bucky5683" >
+          Bucky5683
+      </a>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        11등
+      </td>
+      <td align="center">
+        <a href="https://github.com/B0MI" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71758542?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/B0MI" >
+          B0MI
+      </a>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        12등
+      </td>
+      <td align="center">
+        <a href="https://github.com/sohyun9128" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/50349511?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/sohyun9128" >
+          sohyun9128
+      </a>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
   </tbody>
 </table>
     
