@@ -23,4 +23,4 @@ def write_githubs(githubs):
     github_dict = {"github": dicted_github}
 
     with open("./resources/githubs.json", "w", encoding="utf-8") as f:
-        f.write(json.dumps(github_dict, ensure_ascii=False))
+        f.write(json.dumps(github_dict, ensure_ascii=False, indent=2))
