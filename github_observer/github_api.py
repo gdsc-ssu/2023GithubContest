@@ -1,6 +1,8 @@
 import requests
+from datetime import datetime
 from typing import List
-from classes import Profile, Repo, User, Commiter, Commit, CommitWrapper
+from classes import Profile, Repo, User, Commit
+from bs4 import BeautifulSoup
 
 """
 oauth를 이용해 token을 얻는 방법. 사전에 GET https://github.com/login/oauth/authorize 으로 callback code를 얻어야함.
@@ -90,5 +92,27 @@ def fetch_commits(full_name: str, author: str, token: str) -> List[Commit]:
         tree=body['commit']['tree'],
         verification=body['commit']['verification']
     ) for body in r.json()]
+
+    return ret
+
+
+def fetch_grass_count(login: str, since: str = '2021-10-02', until: str = '2021-11-07') -> int:
+    r = requests.get('https://github.com/{}'.format(login))
+    soup = BeautifulSoup(r.text, 'html.parser')
+    days = soup.find_all(class_='ContributionCalendar-day')
+    since_date = datetime.strptime(since, '%Y-%m-%d')
+    until_date = datetime.strptime(until, '%Y-%m-%d')
+    ret = 0
+
+    for day in days:
+        data_date = day.get('data-date')
+        data_count = day.get('data-count')
+
+        if not data_date or not data_count:
+            continue
+        contribution_date = datetime.strptime(data_date, '%Y-%m-%d')
+
+        if since_date <= contribution_date <= until_date:
+            ret += int(data_count)
 
     return ret
