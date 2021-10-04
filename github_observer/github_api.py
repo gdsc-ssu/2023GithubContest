@@ -62,7 +62,14 @@ def fetch_repos(username: str, token: str) -> List[Repo]:
             stargazers_count=repo['stargazers_count'],
         ) for repo in response.json()
     ]
-    return repos
+    since = datetime.strptime('2021-10-02', '%Y-%m-%d')
+    until = datetime.strptime('2021-11-07', '%Y-%m-%d')
+    ret = []
+    for repo in repos:
+        created_at = datetime.strptime(repo.created_at, '%Y-%m-%dT%H:%M:%SZ')
+        if since <= created_at <= until:
+            ret.append(repo)
+    return ret
 
 
 def fetch_commits(full_name: str, author: str, token: str) -> List[Commit]:
