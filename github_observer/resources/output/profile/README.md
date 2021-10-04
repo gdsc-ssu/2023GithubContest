@@ -127,19 +127,136 @@
         1
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        등수
+      </th>
+      <th>
+        유저프로필
+      </th>
+      <th>
+        레포지토리
+      </th>
+      <th>
+        stargazers
+      </th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td align="center">
-        7등
+        1등
       </td>
       <td align="center">
-        <a href="https://github.com/ika9810" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
         </a>
       </td>
       <td align="center">
-      <a href="https://github.com/ika9810" >
-          ika9810
-      </a>
+        <a href="https://github.com/yoo-jimin127/2021_2_APP_programming" >
+          yoo-jimin127/2021_2_APP_programming
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        1
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
+          yoo-jimin127/TODO_app_react
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        1
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
+      </td>
+      <td align="center">
+        <a href="https://github.com/Think-JIn99" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/79181909?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Think-JIn99/GDSC_AI-ML" >
+          Think-JIn99/GDSC_AI-ML
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        1
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4등
+      </td>
+      <td align="center">
+        <a href="https://github.com/gdsc-ssu" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/90562885?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gdsc-ssu/.github" >
+          gdsc-ssu/.github
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        5등
+      </td>
+      <td align="center">
+        <a href="https://github.com/yeonnex" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/82166132?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yeonnex/aura" >
+          yeonnex/aura
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6등
+      </td>
+      <td align="center">
+        <a href="https://github.com/ywoo121" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ywoo121/ywoo121" >
+          ywoo121/ywoo121
+        </a>
+      </td>
       </td>
       <td align="center">
         0
