@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        69
+        70
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
       </a>
       </td>
       <td align="center">
-        37
+        42
       </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
       </a>
       </td>
       <td align="center">
-        6
+        9
       </td>
     </tr>
     <tr>
@@ -160,8 +160,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/yoo-jimin127/2021_2_APP_programming" >
-          yoo-jimin127/2021_2_APP_programming
+        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
+          yoo-jimin127/TODO_app_react
         </a>
       </td>
       </td>
@@ -179,8 +179,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
-          yoo-jimin127/TODO_app_react
+        <a href="https://github.com/yoo-jimin127/2021_2_APP_programming" >
+          yoo-jimin127/2021_2_APP_programming
         </a>
       </td>
       </td>
@@ -250,13 +250,13 @@
         6등
       </td>
       <td align="center">
-        <a href="https://github.com/ywoo121" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        <a href="https://github.com/yeonnex" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/82166132?v=4">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ywoo121/ywoo121" >
-          ywoo121/ywoo121
+        <a href="https://github.com/yeonnex/zoom-clone" >
+          yeonnex/zoom-clone
         </a>
       </td>
       </td>
