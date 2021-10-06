@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        70
+        79
       </td>
     </tr>
     <tr>
@@ -60,6 +60,24 @@
         3등
       </td>
       <td align="center">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/yoo-jimin127" >
+          yoo-jimin127
+      </a>
+      </td>
+      <td align="center">
+        23
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4등
+      </td>
+      <td align="center">
         <a href="https://github.com/suyeon96" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
         </a>
@@ -75,7 +93,7 @@
     </tr>
     <tr>
       <td align="center">
-        4등
+        5등
       </td>
       <td align="center">
         <a href="https://github.com/kanghyun98" >
@@ -88,25 +106,7 @@
       </a>
       </td>
       <td align="center">
-        13
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/yoo-jimin127" >
-          yoo-jimin127
-      </a>
-      </td>
-      <td align="center">
-        9
+        15
       </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       </a>
       </td>
       <td align="center">
-        5
+        12
       </td>
     </tr>
   </tbody>
