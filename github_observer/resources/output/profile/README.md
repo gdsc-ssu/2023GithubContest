@@ -52,7 +52,7 @@
       </a>
       </td>
       <td align="center">
-        57
+        69
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
       </a>
       </td>
       <td align="center">
-        26
+        33
       </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       </a>
       </td>
       <td align="center">
-        17
+        18
       </td>
     </tr>
   </tbody>
@@ -174,6 +174,25 @@
         2등
       </td>
       <td align="center">
+        <a href="https://github.com/ywoo121" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ywoo121/swift_memo_app" >
+          ywoo121/swift_memo_app
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        1
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
+      </td>
+      <td align="center">
         <a href="https://github.com/yoo-jimin127" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
         </a>
@@ -190,7 +209,7 @@
     </tr>
     <tr>
       <td align="center">
-        3등
+        4등
       </td>
       <td align="center">
         <a href="https://github.com/yoo-jimin127" >
@@ -209,7 +228,7 @@
     </tr>
     <tr>
       <td align="center">
-        4등
+        5등
       </td>
       <td align="center">
         <a href="https://github.com/Think-JIn99" >
@@ -228,7 +247,7 @@
     </tr>
     <tr>
       <td align="center">
-        5등
+        6등
       </td>
       <td align="center">
         <a href="https://github.com/gdsc-ssu" >
@@ -238,25 +257,6 @@
       <td align="center">
         <a href="https://github.com/gdsc-ssu/.github" >
           gdsc-ssu/.github
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        0
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        6등
-      </td>
-      <td align="center">
-        <a href="https://github.com/yeonnex" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/82166132?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yeonnex/aura" >
-          yeonnex/aura
         </a>
       </td>
       </td>
