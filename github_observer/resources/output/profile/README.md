@@ -52,7 +52,7 @@
       </a>
       </td>
       <td align="center">
-        53
+        57
       </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
       </a>
       </td>
       <td align="center">
-        16
+        19
       </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       </a>
       </td>
       <td align="center">
-        15
+        17
       </td>
     </tr>
   </tbody>
@@ -155,6 +155,25 @@
         1등
       </td>
       <td align="center">
+        <a href="https://github.com/ika9810" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ika9810/Honey-Web-Templates" >
+          ika9810/Honey-Web-Templates
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        2
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
         <a href="https://github.com/yoo-jimin127" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
         </a>
@@ -171,7 +190,7 @@
     </tr>
     <tr>
       <td align="center">
-        2등
+        3등
       </td>
       <td align="center">
         <a href="https://github.com/yoo-jimin127" >
@@ -181,25 +200,6 @@
       <td align="center">
         <a href="https://github.com/yoo-jimin127/2021_2_APP_programming" >
           yoo-jimin127/2021_2_APP_programming
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        1
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        3등
-      </td>
-      <td align="center">
-        <a href="https://github.com/ika9810" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ika9810/Honey-Web-Templates" >
-          ika9810/Honey-Web-Templates
         </a>
       </td>
       </td>
