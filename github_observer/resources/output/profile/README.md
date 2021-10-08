@@ -24,6 +24,24 @@
         1등
       </td>
       <td align="center">
+        <a href="https://github.com/sang-w0o" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/sang-w0o" >
+          sang-w0o
+      </a>
+      </td>
+      <td align="center">
+        94
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
         <a href="https://github.com/gomjellie" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
         </a>
@@ -35,24 +53,6 @@
       </td>
       <td align="center">
         79
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        2등
-      </td>
-      <td align="center">
-        <a href="https://github.com/sang-w0o" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/sang-w0o" >
-          sang-w0o
-      </a>
-      </td>
-      <td align="center">
-        71
       </td>
     </tr>
     <tr>
@@ -78,6 +78,42 @@
         4등
       </td>
       <td align="center">
+        <a href="https://github.com/ika9810" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/ika9810" >
+          ika9810
+      </a>
+      </td>
+      <td align="center">
+        24
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        5등
+      </td>
+      <td align="center">
+        <a href="https://github.com/kanghyun98" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/kanghyun98" >
+          kanghyun98
+      </a>
+      </td>
+      <td align="center">
+        23
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6등
+      </td>
+      <td align="center">
         <a href="https://github.com/suyeon96" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
         </a>
@@ -89,42 +125,6 @@
       </td>
       <td align="center">
         21
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/ywoo121" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/ywoo121" >
-          ywoo121
-      </a>
-      </td>
-      <td align="center">
-        19
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        6등
-      </td>
-      <td align="center">
-        <a href="https://github.com/ika9810" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/ika9810" >
-          ika9810
-      </a>
-      </td>
-      <td align="center">
-        19
       </td>
     </tr>
   </tbody>
