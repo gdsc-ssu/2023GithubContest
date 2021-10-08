@@ -52,7 +52,7 @@
       </a>
       </td>
       <td align="center">
-        69
+        71
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
       </a>
       </td>
       <td align="center">
-        33
+        34
       </td>
     </tr>
     <tr>
@@ -88,12 +88,30 @@
       </a>
       </td>
       <td align="center">
-        19
+        21
       </td>
     </tr>
     <tr>
       <td align="center">
         5등
+      </td>
+      <td align="center">
+        <a href="https://github.com/ywoo121" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/ywoo121" >
+          ywoo121
+      </a>
+      </td>
+      <td align="center">
+        19
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6등
       </td>
       <td align="center">
         <a href="https://github.com/ika9810" >
@@ -107,24 +125,6 @@
       </td>
       <td align="center">
         19
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        6등
-      </td>
-      <td align="center">
-        <a href="https://github.com/kanghyun98" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/kanghyun98" >
-          kanghyun98
-      </a>
-      </td>
-      <td align="center">
-        18
       </td>
     </tr>
   </tbody>
@@ -155,6 +155,25 @@
         1등
       </td>
       <td align="center">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
+          yoo-jimin127/TODO_app_react
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        2
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
         <a href="https://github.com/ika9810" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
         </a>
@@ -171,7 +190,7 @@
     </tr>
     <tr>
       <td align="center">
-        2등
+        3등
       </td>
       <td align="center">
         <a href="https://github.com/ywoo121" >
@@ -181,25 +200,6 @@
       <td align="center">
         <a href="https://github.com/ywoo121/swift_memo_app" >
           ywoo121/swift_memo_app
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        1
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        3등
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
-          yoo-jimin127/TODO_app_react
         </a>
       </td>
       </td>
