@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        94
+        97
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
       </a>
       </td>
       <td align="center">
-        34
+        35
       </td>
     </tr>
     <tr>
