@@ -78,6 +78,24 @@
         4등
       </td>
       <td align="center">
+        <a href="https://github.com/kanghyun98" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/kanghyun98" >
+          kanghyun98
+      </a>
+      </td>
+      <td align="center">
+        27
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        5등
+      </td>
+      <td align="center">
         <a href="https://github.com/ika9810" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
         </a>
@@ -89,24 +107,6 @@
       </td>
       <td align="center">
         24
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/kanghyun98" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/kanghyun98" >
-          kanghyun98
-      </a>
-      </td>
-      <td align="center">
-        23
       </td>
     </tr>
     <tr>
