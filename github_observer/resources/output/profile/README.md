@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        169
+        170
       </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
       </a>
       </td>
       <td align="center">
-        32
+        33
       </td>
     </tr>
     <tr>
@@ -114,17 +114,17 @@
         6등
       </td>
       <td align="center">
-        <a href="https://github.com/suyeon96" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
+        <a href="https://github.com/enif-lee" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
         </a>
       </td>
       <td align="center">
-      <a href="https://github.com/suyeon96" >
-          suyeon96
+      <a href="https://github.com/enif-lee" >
+          enif-lee
       </a>
       </td>
       <td align="center">
-        21
+        29
       </td>
     </tr>
   </tbody>
