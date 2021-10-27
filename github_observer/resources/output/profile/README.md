@@ -34,12 +34,30 @@
       </a>
       </td>
       <td align="center">
-        349
+        351
       </td>
     </tr>
     <tr>
       <td align="center">
         2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/enif-lee" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/enif-lee" >
+          enif-lee
+      </a>
+      </td>
+      <td align="center">
+        101
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
       </td>
       <td align="center">
         <a href="https://github.com/gomjellie" >
@@ -57,7 +75,7 @@
     </tr>
     <tr>
       <td align="center">
-        3등
+        4등
       </td>
       <td align="center">
         <a href="https://github.com/kanghyun98" >
@@ -70,12 +88,12 @@
       </a>
       </td>
       <td align="center">
-        85
+        87
       </td>
     </tr>
     <tr>
       <td align="center">
-        4등
+        5등
       </td>
       <td align="center">
         <a href="https://github.com/yoo-jimin127" >
@@ -85,24 +103,6 @@
       <td align="center">
       <a href="https://github.com/yoo-jimin127" >
           yoo-jimin127
-      </a>
-      </td>
-      <td align="center">
-        81
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/enif-lee" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/enif-lee" >
-          enif-lee
       </a>
       </td>
       <td align="center">
