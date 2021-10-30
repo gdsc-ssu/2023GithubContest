@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        392
+        405
       </td>
     </tr>
     <tr>
@@ -60,24 +60,6 @@
         3등
       </td>
       <td align="center">
-        <a href="https://github.com/gomjellie" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/gomjellie" >
-          gomjellie
-      </a>
-      </td>
-      <td align="center">
-        90
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        4등
-      </td>
-      <td align="center">
         <a href="https://github.com/kanghyun98" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
         </a>
@@ -85,6 +67,24 @@
       <td align="center">
       <a href="https://github.com/kanghyun98" >
           kanghyun98
+      </a>
+      </td>
+      <td align="center">
+        94
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4등
+      </td>
+      <td align="center">
+        <a href="https://github.com/gomjellie" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/gomjellie" >
+          gomjellie
       </a>
       </td>
       <td align="center">
