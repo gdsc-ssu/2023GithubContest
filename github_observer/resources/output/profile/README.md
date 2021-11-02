@@ -42,24 +42,6 @@
         2등
       </td>
       <td align="center">
-        <a href="https://github.com/kanghyun98" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/kanghyun98" >
-          kanghyun98
-      </a>
-      </td>
-      <td align="center">
-        105
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        3등
-      </td>
-      <td align="center">
         <a href="https://github.com/enif-lee" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
         </a>
@@ -70,7 +52,25 @@
       </a>
       </td>
       <td align="center">
-        103
+        112
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
+      </td>
+      <td align="center">
+        <a href="https://github.com/kanghyun98" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/kanghyun98" >
+          kanghyun98
+      </a>
+      </td>
+      <td align="center">
+        107
       </td>
     </tr>
     <tr>
