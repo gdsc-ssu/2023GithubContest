@@ -34,12 +34,30 @@
       </a>
       </td>
       <td align="center">
-        426
+        441
       </td>
     </tr>
     <tr>
       <td align="center">
         2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/gomjellie" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://github.com/gomjellie" >
+          gomjellie
+      </a>
+      </td>
+      <td align="center">
+        114
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
       </td>
       <td align="center">
         <a href="https://github.com/enif-lee" >
@@ -52,12 +70,12 @@
       </a>
       </td>
       <td align="center">
-        112
+        113
       </td>
     </tr>
     <tr>
       <td align="center">
-        3등
+        4등
       </td>
       <td align="center">
         <a href="https://github.com/kanghyun98" >
@@ -75,24 +93,6 @@
     </tr>
     <tr>
       <td align="center">
-        4등
-      </td>
-      <td align="center">
-        <a href="https://github.com/gomjellie" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/gomjellie" >
-          gomjellie
-      </a>
-      </td>
-      <td align="center">
-        98
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         5등
       </td>
       <td align="center">
@@ -106,7 +106,7 @@
       </a>
       </td>
       <td align="center">
-        81
+        84
       </td>
     </tr>
     <tr>
