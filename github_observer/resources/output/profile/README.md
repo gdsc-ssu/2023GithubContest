@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        519
+        537
       </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@
       </a>
       </td>
       <td align="center">
-        116
+        118
       </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
       </a>
       </td>
       <td align="center">
-        96
+        86
       </td>
     </tr>
     <tr>
@@ -155,25 +155,6 @@
         1등
       </td>
       <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
-          yoo-jimin127/TODO_app_react
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        2
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        2등
-      </td>
-      <td align="center">
         <a href="https://github.com/ika9810" >
           <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
         </a>
@@ -181,6 +162,25 @@
       <td align="center">
         <a href="https://github.com/ika9810/Honey-Web-Templates" >
           ika9810/Honey-Web-Templates
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        3
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
+          yoo-jimin127/TODO_app_react
         </a>
       </td>
       </td>
