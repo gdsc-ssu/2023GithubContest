@@ -28,6 +28,7 @@ def fetch_user(username: str, token: str) -> Profile:
         'Authorization': f'token {token}'
     }
     r = requests.get(query_url, headers=headers)
+    print(f"response: {r.json()}")
     return Profile(r.json()['avatar_url'])
 
 

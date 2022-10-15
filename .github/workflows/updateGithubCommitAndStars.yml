@@ -1,0 +1,58 @@
+name: 'Parsing Github commitcounts & stars for 2021 GDSC Soongsil Github Contest'
+
+on:
+  workflow_dispatch
+#  schedule:
+#    - cron: '0 3,15 * * *' # ON EVERY 00:00, 12:00 KST
+#  push:
+#    branches: [main]
+
+jobs:
+  codeTest:
+    name: Run GithubParser
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        working-directory: 'github_observer'
+
+      - name: Run
+        run: python main.py ${{ secrets.A_GITHUB_TOKEN }}
+        working-directory: 'github_observer'
+
+      - name: Commit updated newestGithubs.json
+        run: |
+          git pull
+          git config --local user.email "githubParser.githubaction.bot@noreply.gdscsoongsil.com"
+          git config --local user.name "githubParser"
+          git commit -m "[GithubActionBot] Update newest github commit/stars" -a || echo "Nothing to update"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.A_GITHUB_TOKEN }}
+          branch: main
+
+      - name: Push Profile Repository
+        id: push_directory
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.A_GITHUB_TOKEN }}
+        with:
+          source-directory: 'github_observer/resources/output'
+          destination-github-username: 'gdsc-ssu'
+          destination-repository-name: '.github'
+          user-email: githubContest@noreply.gdscsoongsil.com
+          commit-message: '[GithubActionBot] Update Github Contest Ranking Table'
+          target-branch: main
