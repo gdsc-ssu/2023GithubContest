@@ -48,7 +48,7 @@
 
    ```yml
    - name: Run
-     run: python main.py ${{ secrets.A_GITHUB_TOKEN }}
+     run: python main.py ${{ secrets.GHB_PAT }}
      working-directory: 'github_observer'
    ```
    
