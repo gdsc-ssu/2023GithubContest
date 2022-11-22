@@ -20,6 +20,9 @@ def getToken():
     return r.json()
 """
 
+start_date = '2021-10-02'
+end_date = '2022-01-01'
+
 
 def fetch_user(username: str, token: str) -> Profile:
     query_url = f"https://api.github.com/users/{username}"
@@ -63,8 +66,8 @@ def fetch_repos(username: str, token: str) -> List[Repo]:
             stargazers_count=repo['stargazers_count'],
         ) for repo in response.json()
     ]
-    since = datetime.strptime('2021-10-02', '%Y-%m-%d')
-    until = datetime.strptime('2021-11-07', '%Y-%m-%d')
+    since = datetime.strptime(start_date, '%Y-%m-%d')
+    until = datetime.strptime(end_date, '%Y-%m-%d')
     ret = []
     for repo in repos:
         created_at = datetime.strptime(repo.created_at, '%Y-%m-%dT%H:%M:%SZ')
@@ -82,8 +85,8 @@ def fetch_commits(full_name: str, author: str, token: str) -> List[Commit]:
     """
     query_url = f"https://api.github.com/repos/{full_name}/commits"
     params = {
-        "since": "2021-10-02T00:00:00Z",
-        "until": "2021-11-07T00:00:00Z",
+        "since": f"{start_date}T00:00:00Z",
+        "until": f"{end_date}T00:00:00Z",
         "author": {author},
     }
     headers = {
@@ -104,7 +107,7 @@ def fetch_commits(full_name: str, author: str, token: str) -> List[Commit]:
     return ret
 
 
-def fetch_grass_count(login: str, since: str = '2021-10-02', until: str = '2021-11-07') -> int:
+def fetch_grass_count(login: str, since: str = start_date, until: str = end_date) -> int:
     r = requests.get('https://github.com/{}'.format(login))
     soup = BeautifulSoup(r.text, 'html.parser')
     days = soup.find_all(class_='ContributionCalendar-day')
