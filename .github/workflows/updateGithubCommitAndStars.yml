@@ -1,11 +1,11 @@
 name: 'Parsing Github commitcounts & stars for 2021 GDSC Soongsil Github Contest'
 
 on:
-  workflow_dispatch
+#  workflow_dispatch
 #  schedule:
 #    - cron: '0 3,15 * * *' # ON EVERY 00:00, 12:00 KST
-#  push:
-#    branches: [main]
+  push:
+    branches: [main]
 
 jobs:
   codeTest:
