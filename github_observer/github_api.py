@@ -20,8 +20,8 @@ def getToken():
     return r.json()
 """
 
-start_date = '2021-10-02'
-end_date = '2022-01-01'
+start_date = '2023-01-01'
+end_date = '2023-03-03'
 
 
 def fetch_user(username: str, token: str) -> Profile:
