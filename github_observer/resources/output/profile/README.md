@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        462
+        6
       </td>
     </tr>
   </tbody>
@@ -60,25 +60,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center">
-        1등
-      </td>
-      <td align="center">
-        <a href="https://github.com/sang-w0o" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/sang-w0o/FxTS" >
-          sang-w0o/FxTS
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        0
-      </td>
-    </tr>
+
   </tbody>
 </table>
     
