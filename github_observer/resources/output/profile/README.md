@@ -34,7 +34,7 @@
       </a>
       </td>
       <td align="center">
-        6
+        0
       </td>
     </tr>
   </tbody>
@@ -60,7 +60,63 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td align="center">
+        1등
+      </td>
+      <td align="center">
+        <a href="https://github.com/sang-w0o" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sang-w0o/backstage-template-example-repo" >
+          sang-w0o/backstage-template-example-repo
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/sang-w0o" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sang-w0o/backstage" >
+          sang-w0o/backstage
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3등
+      </td>
+      <td align="center">
+        <a href="https://github.com/Example-Collection" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/87428757?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Example-Collection/skaffold-example" >
+          Example-Collection/skaffold-example
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
   </tbody>
 </table>
     
