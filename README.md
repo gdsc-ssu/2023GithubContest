@@ -57,7 +57,7 @@
 ### Installation
 
 ```
-git clone https://github.com/gdsc-ssu/2021GithubContest.git
+git clone https://github.com/gdsc-ssu/2023GithubContest.git
 
 python ./github_observer/main.sh {github_token}
 ```
